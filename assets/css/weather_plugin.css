@@ -1,0 +1,52 @@
+.meteo{
+	height: 200px;
+	width: 300px;
+	background-color: #007D6D;
+	display: block;
+	padding: 0px 15px;
+	border-radius: 7px;
+}
+.meteoImg{
+	vertical-align: middle;
+	position: relative;
+	display: inline-block;
+	min-height: 200px;
+}
+.meteo img {
+	margin-top: 40px;
+	height: 120px;
+	border-radius: 90px;
+}
+.content{
+	display: inline-block;
+	position: relative;
+	padding: 0px;
+	min-height: 200px;
+	vertical-align: middle;
+	min-width: 150px;
+}
+.city{
+	font-size: 30px;
+	margin-top: 40px;
+	margin-left: 5px;
+}
+.description{
+	margin-left: 5px;
+}
+.degres{
+	margin-left: 60px;
+	font-size: 50px;
+}
+.time{
+	font-size: 13px;
+	color: #101918;
+	position: absolute;
+	right: 0px;
+	top: 10px;
+}
+.refresh{
+	font-size: 13px;
+	position: absolute;
+	right: 0px;
+	bottom: 10px;
+}
